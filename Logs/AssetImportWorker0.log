@@ -1,0 +1,189 @@
+Unity Editor version:    2020.3.18f1 (a7d1c678663c)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.15.7 (Build 19H1519)
+Darwin version:          19.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/rubensanz/Documents/Survival-B
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49716
+Successfully changed project path to: /Users/rubensanz/Documents/Survival-B
+/Users/rubensanz/Documents/Survival-B
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 58.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/rubensanz/Documents/Survival-B/Assets
+GfxDevice: creating device client; threaded=0
+2021-12-03 17:50:25.636 Unity[1045:45095] X112H preferred device: NVIDIA GeForce GT 640M (high power)
+2021-12-03 17:50:25.636 Unity[1045:45095] Metal devices available: 1
+2021-12-03 17:50:25.637 Unity[1045:45095] 0: NVIDIA GeForce GT 640M (high power)
+2021-12-03 17:50:25.637 Unity[1045:45095] Using device NVIDIA GeForce GT 640M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 640M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56045
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000871 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 65.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.406 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5407ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (855ms)
+			LoadAssemblies (92ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (361ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (66ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (61ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 61.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.232 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2237ms)
+		BeginReloadAssembly (300ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1802ms)
+			LoadAssemblies (167ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (577ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (104ms)
+			SetupLoadedEditorAssemblies (659ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (62ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (473ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.010135 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.036464 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1754 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.9 MB.
+System memory in use after: 178.1 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2232.
+Total: 5.103038 ms (FindLiveObjects: 0.261398 ms CreateObjectMapping: 0.081949 ms MarkObjects: 3.922402 ms  DeleteObjects: 0.835779 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Particulas/Particula_piedra.prefab
+  artifactKey: Guid(32042911d281e4aee818052f9bb3451f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particulas/Particula_piedra.prefab using Guid(32042911d281e4aee818052f9bb3451f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e392ae5fe5b9dc8767bd0a3579ccd18c') in 0.552203 seconds 
+  Import took 0.556805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.022439 seconds.
+  path: Assets/Prefabs/Environment
+  artifactKey: Guid(bb37f68286b8e45e4ad70bffa7cc6e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment using Guid(bb37f68286b8e45e4ad70bffa7cc6e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f18785d413a882a0b70366bcf4e9c5c') in 0.002266 seconds 
+  Import took 0.006925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.860995 seconds.
+  path: Assets/Prefabs/Environment/Recurso_Madera.prefab
+  artifactKey: Guid(3596439842bea4e138a1c797cfc54a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Recurso_Madera.prefab using Guid(3596439842bea4e138a1c797cfc54a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a944ac21a6f399959a2a7a61d920fb56') in 0.031837 seconds 
+  Import took 0.036649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.813356 seconds.
+  path: Assets/Prefabs/Environment/Recurso_Piedra.prefab
+  artifactKey: Guid(cfdfa3e5704c84797a20f09b9b68e6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Recurso_Piedra.prefab using Guid(cfdfa3e5704c84797a20f09b9b68e6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa02c46370907227f39fd1f33ba3f5ef') in 0.018548 seconds 
+  Import took 0.023082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005831 seconds.
+  path: Assets/Prefabs/Environment/Recurso_Piedra.prefab
+  artifactKey: Guid(cfdfa3e5704c84797a20f09b9b68e6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Recurso_Piedra.prefab using Guid(cfdfa3e5704c84797a20f09b9b68e6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa02c46370907227f39fd1f33ba3f5ef') in 0.012182 seconds 
+  Import took 0.016371 seconds .
+
