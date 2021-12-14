@@ -12,6 +12,7 @@ public class Inventario : MonoBehaviour
 {
    //Array de itemSlotUI-Parte visual de el slot
    public ItemSlotUI[] uiSlots;
+   public int i=0;
    //Array del slot fisico y sus datos (itemData , cantidad..
    public ItemSlot[] slots;
    //El propio canvas del inventario
